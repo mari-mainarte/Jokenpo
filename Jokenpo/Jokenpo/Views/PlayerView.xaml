@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Jokenpo.Views.PlayerView"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="PlayerView">
+    <VerticalStackLayout>
+        <Label x:Name="Pointsp1" Text="{Binding Pontuacaop1}" />
+        <Label Text="X" />
+        <Label x:Name="Pointsp2" Text="{Binding Pontuacaop2}" />
+        <Label />
+        <Image HeightRequest="100" Source="{Binding Imagemp1}" />
+        <Image HeightRequest="100" Source="{Binding Imagemp2}" />
+        <Label x:Name="Mensagem" Text="{Binding Resultado}" />
+        <Picker
+            x:Name="playerPicker"
+            Title="Escolha uma opção"
+            SelectedItem="{Binding Opplayer1}">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>pedra</x:String>
+                    <x:String>papel</x:String>
+                    <x:String>tesoura</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Button Command="{Binding JogarCommand}" Text="Jogar" />
+    </VerticalStackLayout>
+</ContentPage>

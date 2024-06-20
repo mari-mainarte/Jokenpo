@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|c:\\users\\maria\\reposit\u00F3rios conta_escola\\jokenpo\\jokenpo\\jokenpo\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|c:\\users\\maria\\reposit\u00F3rios conta_escola\\jokenpo\\jokenpo\\jokenpo\\views\\playerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\views\\playerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|c:\\users\\maria\\reposit\u00F3rios conta_escola\\jokenpo\\jokenpo\\jokenpo\\views\\playerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\views\\playerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|c:\\users\\maria\\reposit\u00F3rios conta_escola\\jokenpo\\jokenpo\\jokenpo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|c:\\users\\maria\\reposit\u00F3rios conta_escola\\jokenpo\\jokenpo\\jokenpo\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|c:\\users\\maria\\reposit\u00F3rios conta_escola\\jokenpo\\jokenpo\\jokenpo\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|c:\\users\\maria\\reposit\u00F3rios conta_escola\\jokenpo\\jokenpo\\jokenpo\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D3353A-E437-4B99-9008-5E454F7AEE32}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Jokenpo\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\AppShell.xaml.cs",
+              "RelativeToolTip": "Jokenpo\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:25:43.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\Views\\PlayerView.xaml.cs",
+              "RelativeDocumentMoniker": "Jokenpo\\Views\\PlayerView.xaml.cs",
+              "ToolTip": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\Views\\PlayerView.xaml.cs",
+              "RelativeToolTip": "Jokenpo\\Views\\PlayerView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:29:46.921Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\ViewModel\\PlayerViewModel.cs",
+              "RelativeDocumentMoniker": "Jokenpo\\ViewModel\\PlayerViewModel.cs",
+              "ToolTip": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\ViewModel\\PlayerViewModel.cs",
+              "RelativeToolTip": "Jokenpo\\ViewModel\\PlayerViewModel.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwEUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:44:21.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Jokenpo\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\Models\\Player.cs",
+              "RelativeToolTip": "Jokenpo\\Models\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:35:23.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Jokenpo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\App.xaml.cs",
+              "RelativeToolTip": "Jokenpo\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:33:19.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Jokenpo\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\AppShell.xaml",
+              "RelativeToolTip": "Jokenpo\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T00:18:46.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerView.xaml",
+              "DocumentMoniker": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\Views\\PlayerView.xaml",
+              "RelativeDocumentMoniker": "Jokenpo\\Views\\PlayerView.xaml",
+              "ToolTip": "C:\\Users\\maria\\Reposit\u00F3rios conta_escola\\Jokenpo\\Jokenpo\\Jokenpo\\Views\\PlayerView.xaml",
+              "RelativeToolTip": "Jokenpo\\Views\\PlayerView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T00:18:30.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
